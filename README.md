@@ -7,7 +7,7 @@
 実装して、ユニットテストが通るようにしてください。
 
 [![MS ビルドとテスト](https://github.com/Saturn2525/comp2_3_unittest/actions/workflows/ms_test.yml/badge.svg)](https://github.com/Saturn2525/comp2_3_unittest/actions/workflows /ms_test.yml)
-な
+
 # 進め方
 * 本リポジトリをforkしてください
 * GitHub Actions を有効にしてください。
